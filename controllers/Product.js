@@ -5,22 +5,22 @@ export const getProducts = (req, res) =>{
 
 }
 
-export const getProductsById = (req, res) =>{
+export const getProductById = (req, res) =>{
 
 
 }
 
-export const createProducts = (req, res) =>{
+export const createProduct = (req, res) =>{
 
 
 }
 
-export const updateProducts = (req, res) =>{
+export const updateProduct = (req, res) =>{
 
 
 }
 
-export const deleteProducts = (req, res) =>{
+export const deleteProduct = (req, res) =>{
 
 
 }
