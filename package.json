@@ -1,0 +1,24 @@
+{
+  "name": "appproject_blp",
+  "version": "1.0.0",
+  "description": "project blp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizhaadff/appproject_blp.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "hafizha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafizhaadff/appproject_blp/issues"
+  },
+  "homepage": "https://github.com/hafizhaadff/appproject_blp#readme"
+}
