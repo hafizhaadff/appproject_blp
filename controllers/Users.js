@@ -1,26 +1,26 @@
-import Products from "../models/ProductModel.js";
+import User from "../models/UserModel.js";
 
-export const getProducts = (req, res) =>{
-
-
-}
-
-export const getProductsById = (req, res) =>{
+export const getUsers = (req, res) =>{
 
 
 }
 
-export const createProducts = (req, res) =>{
+export const getUserById = (req, res) =>{
 
 
 }
 
-export const updateProducts = (req, res) =>{
+export const createUser = (req, res) =>{
 
 
 }
 
-export const deleteProducts = (req, res) =>{
+export const updateUser = (req, res) =>{
+
+
+}
+
+export const deleteUser = (req, res) =>{
 
 
 }
